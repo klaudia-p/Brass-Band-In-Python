@@ -1,0 +1,25 @@
+﻿Klaudia Pietras,21,flet
+Jan Krawczyk,18,waltornia
+Piotr Bocian,30,oboj
+Zuzia Pietras,17,klarnet
+Bartosz Lewandowski,16,fagot
+Weronika Domaszewska,18,saksofon
+Dominik Nowakowski,15,saksofon
+Krzysztof Krawiec,22,trabka
+Kamil Lis,22,trabka
+Jan Kowalski,17,puzon
+Laura Pietras,15,trabka
+Zuzia Kos,17,puzon
+Jan Krzeminski,21,tuba
+Radek Wochal,27,sakshorn
+Mikołaj Sciebura,18,perkusja
+Marcin Janeczek,26,kotly
+Kacper Wladarczyk,25,beben
+Pawel Gora,19,talerze
+Grzegorz Gora,17,ksylofon
+Karolina Sopata,20,skrzypce
+Natalia Slomka,28,altowka
+Agata Cieslik,27,wiolonczela
+Maciej Piatek,26,kontrabas
+
+/*Zbieżność osób i nazwisk jest przypadkowa. Usuń komentarz przed wczytaniem pliku*/

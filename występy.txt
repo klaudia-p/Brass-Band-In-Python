@@ -1,0 +1,10 @@
+koncert,8000,niedziela;18:00;21:00
+pogrzeb,200,czwartek;14:00;14:30
+pogrzeb,200,czwartek;14:30;15:30
+slub,400,sobota;16:30;17:30
+parada,5000,sroda;17:00;18:30
+pogrzeb,200,wtorek;17:30;18:30
+pogrzeb,200,wtorek;17:30;18:30
+pogrzeb,200,wtorek;17:30;18:30
+wesele,600,sobota;19:00;22:00
+uroczystosc panstwowa,500,poniedzialek;10:00;11:30
